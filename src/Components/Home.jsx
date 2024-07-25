@@ -60,7 +60,7 @@ function Home() {
             </div>            
         </div>
         <div className='md:w-1/2  md:ml-40 ml-10 order-1 '>
-        <img className='rounded-full md:w-[400px] w-[300px] md:h-[650px] h-[400px]' src='./public/pic01.png'></img>
+        <img className='rounded-full md:w-[400px] w-[300px] md:h-[650px] h-[400px]' src='./pic01.png'></img>
         </div>
     </div>
     <br />
