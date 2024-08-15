@@ -40,28 +40,34 @@ function Portfolio() {
                 <div
                     class=" h-54 mx-4 mt-6 overflow-hidden text-white shadow-lg bg-clip-border rounded-xl bg-blue-gray-500 shadow-blue-gray-500/40">
                     <img
-                        src="https://images.unsplash.com/photo-1540553016722-983e48a2cd10?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=80"
+                        src="https://1.bp.blogspot.com/-RP5m-XGk7aU/Xd-ailWVZnI/AAAAAAAAKgo/gC24DrIKNEY1DutP3bR7TqfcqNY-SCp4gCLcBGAsYHQ/w1200-h675-p-k-no-nu/youtube-home-page-c.jpg"
                         alt="card-image" />
                 </div>
                 <div class="p-6">
                     <h5 class="block mb-2 font-sans text-xl antialiased font-semibold leading-snug tracking-normal text-blue-gray-900">
-                    Project 2
+                    ytube clone
                     </h5>
                     <p class="block font-sans text-base antialiased font-light leading-relaxed text-inherit">
-                        The place is close to Barceloneta Beach and bus stop just 2 min by walk
-                        and near to "Naviglio" where you can enjoy the main night life in
-                        Barcelona.
+                        I created a YTube clone using React, designed to replicate the core functionality and user 
+                        interface of the popular video streaming platform, YouTube. This project showcases my skills 
+                        in front-end development, state management, and API integration.
                     </p>
                 </div>
                 <div className="p-6 pt-0 flex justify-between">
                     <button
                         class="align-middle select-none font-sans font-bold text-center uppercase transition-all disabled:opacity-50 disabled:shadow-none disabled:pointer-events-none text-xs py-3 px-6 rounded-lg bg-blue-500 text-white shadow-md shadow-gray-900/10 hover:shadow-lg hover:shadow-gray-900/20 focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none"
-                        type="button">
+                        type="button"
+                        href=""
+                        target="_blank"
+                        >
                         View Code
                     </button>
                     <button
                         class="align-middle select-none font-sans font-bold text-center uppercase transition-all disabled:opacity-50 disabled:shadow-none disabled:pointer-events-none text-xs py-3 px-6 rounded-lg bg-green-500 text-white shadow-md shadow-gray-900/10 hover:shadow-lg hover:shadow-gray-900/20 focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none"
-                        type="button">
+                        type="button"
+                        href="https://ytube-clone-chi.vercel.app/"
+                        target="_blank"
+                        >
                         Go Live
                     </button>
                 </div>
