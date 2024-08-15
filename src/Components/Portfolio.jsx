@@ -62,14 +62,14 @@ function Portfolio() {
                         >
                         View Code
                     </button>
-                    <button
+                    <a
                         class="align-middle select-none font-sans font-bold text-center uppercase transition-all disabled:opacity-50 disabled:shadow-none disabled:pointer-events-none text-xs py-3 px-6 rounded-lg bg-green-500 text-white shadow-md shadow-gray-900/10 hover:shadow-lg hover:shadow-gray-900/20 focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none"
                         type="button"
                         href="https://ytube-clone-chi.vercel.app/"
                         target="_blank"
                         >
                         Go Live
-                    </button>
+                    </a>
                 </div>
             </div>
            <div class=" flex flex-col mt-4 text-gray-700 bg-gray-200 shadow-md bg-clip-border rounded-xl w-80 hover:scale-105 duration-300 cursor-pointer">
