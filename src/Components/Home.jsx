@@ -32,7 +32,11 @@ function Home() {
              </div>
              <br/>
              <p className='text-sm md:text-md text-justify text-gray-500'>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur suscipit, rem vero saepe magnam impedit aliquid fugiat? Nobis fugiat deleniti harum magni inventore mollitia id totam iusto laudantium aut ipsam repellat tempora, veritatis, debitis ex, aliquid quidem necessitatibus beatae placeat.
+                I’m currently working on Web Development (MERN) Stack
+                Ask me about- Front-end Development and Competitive Programming
+                Looking for a team or an organization where I can learn and develop my skills
+                My dream is to put my skills and knowledge gained into use and make something productive that can solve problems our world is dealing with
+                Fun fact: Engineering student but still happy😄(Trying to be).
              </p>
              <br />
              <div className='flex flex-col items-center md:flex-row justify-between space-y-6 md:space-y-0'>
